@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/banbara23/javascript_library_sample/issues"
   },
-  "homepage": "https://github.com/banbara23/javascript_library_sample#readme"
+  "homepage": "https://github.com/banbara23/javascript_library_sample#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
 }
