@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/banbara23/javascript_library_sample#readme",
   "dependencies": {
+    "jimp": "^0.2.28",
     "lodash": "^4.17.4",
     "store": "^2.0.12",
     "winston": "^2.3.1"

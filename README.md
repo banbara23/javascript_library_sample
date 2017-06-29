@@ -6,3 +6,4 @@ jsのライブラリを試す
 - [store.js](https://github.com/marcuswestin/store.js)
   - localStrageをクロスブラウザで便利に利用できるようにしたライブラリ
   - キーとバリューの組み合わせでローカルに保存できる
+- jimp 画像処理ライブラリ
